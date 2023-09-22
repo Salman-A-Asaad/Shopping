@@ -784,11 +784,11 @@ nav .container .icons span:hover svg {
 }
 
 .deal .row1 .container .i1 {
-    background-image: url("/img/14.jpg");
+    background-image: url("../img/14.jpg");
 }
 
 .deal .row1 .container .i2 {
-    background-image: url("/img/13.jpg");
+    background-image: url("../img/13.jpg");
 }
 
 .deal .row1 .container .item h2 {
